@@ -1,5 +1,5 @@
-Vent's Privacy Policy
-By using Vent you accept with its privacy policy.
+Flare's Privacy Policy
+By using Flare you accept with its privacy policy.
 1. What does it store?
 Server IDs for servers data(prefixes, settings)
 2. Who can access the data?
